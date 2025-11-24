@@ -1,0 +1,20 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : ((TITLE-ABS-KEY(Intelligent Transportation Systems)) AND (traffic state prediction) AND (deep learning) AND ( LIMIT-TO ( DOCTYPE,""ar"" ) ) )"
+
+
+Number of results : 10
+
+"YEAR",
+"2026","23"
+"2025","893"
+"2024","592"
+"2023","472"
+"2022","393"
+"2021","217"
+"2020","195"
+"2019","99"
+"2018","46"
+"2017","15"
+"2016","7"
+"2015","5"
