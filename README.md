@@ -1,1 +1,1 @@
-Two CSV files containing the search results of the Scopus database.
+Two CSV files containing the search results of ITS on the Scopus database.
